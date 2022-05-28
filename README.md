@@ -5,4 +5,9 @@ cvzone包，Servo Driver HAT舵机控制板
 
 handRobicArm.py为识别程序，识别手势位置及开合状态，设置串口等
 
-更新中......
+
+下图为21个手部关键点信息
+![cvzone](https://user-images.githubusercontent.com/80667208/170824253-aa3b4c27-1cab-49d2-8e17-7de41101a861.png)
+
+
+持续更新中......
