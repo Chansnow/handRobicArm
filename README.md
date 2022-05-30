@@ -10,4 +10,6 @@ handRobicArm.py为识别程序，识别手势位置及开合状态，设置串�
 ![cvzone](https://user-images.githubusercontent.com/80667208/170824253-aa3b4c27-1cab-49d2-8e17-7de41101a861.png)
 
 
+演示视频：https://www.bilibili.com/video/BV1rA4y1d79y
+
 持续更新中......
